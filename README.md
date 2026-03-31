@@ -1,7 +1,7 @@
-#Projeto Calculadora em Python 🐍
+# Projeto Calculadora em Python 🐍
 ## Este projeto foi desenvolvido como parte do curso de Analista de Dados da EBAC (Escola Britânica de Artes Criativas e Tecnologia). O objetivo foi aplicar conceitos fundamentais de lógica de programação e Python.
 
-##🚀 Funcionalidades
+## 🚀 Funcionalidades
 A calculadora realiza operações básicas de matemática, como:
 
 Soma
@@ -12,14 +12,14 @@ Multiplicação
 
 Divisão
 
-##🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 Python 3
 
 Jupyter Notebook (.ipynb)
 
 Git & GitHub para versionamento
 
-##📖 Como executar
+## 📖 Como executar
 Certifique-se de ter o Python e o Jupyter instalados.
 
 Clone este repositório.
