@@ -1,6 +1,14 @@
 # Projeto Calculadora em Python 🐍
 ## Este projeto foi desenvolvido como parte do curso de Analista de Dados da EBAC (Escola Britânica de Artes Criativas e Tecnologia). O objetivo foi aplicar conceitos fundamentais de lógica de programação e Python.
 
+## 💻 Execução via Terminal (Linux/macOS)
+
+Além do Jupyter Notebook, você pode executar a calculadora diretamente pelo terminal utilizando o script shell incluso:
+
+1. Dê permissão de execução ao arquivo:
+   ```bash
+   chmod +x calculadora.sh
+
 ## 🚀 Funcionalidades
 A calculadora realiza operações básicas de matemática, como:
 
